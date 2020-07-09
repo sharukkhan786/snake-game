@@ -1,3 +1,3 @@
 # snake-game
-install freegames via pip using the below command
+install freegames via pip using the command.
 pip install freegames
